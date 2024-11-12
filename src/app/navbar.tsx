@@ -1,5 +1,5 @@
 import Link from 'next/link';
-// import '@/globals.css'; // Ensure this path is correct
+
 
 export default function Navbar() {
     return (
@@ -10,7 +10,7 @@ export default function Navbar() {
                 </h2>
                 <ul className="nav-links">
                     <li><Link href="/">Home</Link></li>
-                    <li><Link href="/about">About</Link></li>
+                    <li><Link href="/About">About</Link></li>
                     <li><Link href="/Services">Services</Link></li>
                     <li><Link href="/Projects">Projects</Link></li>
                     <li><Link href="/Contact">Contact Us</Link></li>
