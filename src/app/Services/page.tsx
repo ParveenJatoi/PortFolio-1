@@ -30,13 +30,13 @@ export default function Services() {
         <div className="testimonials">
           <h3>Testimonials</h3>
           <blockquote>
-            Parveen's work transformed our online presence. Highly recommended! - Client Name
+            Parveens work transformed our online presence. Highly recommended! - Client
           </blockquote>
         </div>
         
         <div className="contact-cta">
           <h3>Get In Touch</h3>
-          <p>If you're interested in working together, feel free to <a href="/Contact">contact me</a> for a consultation!</p>
+          <p>If you are interested in working together, feel free to <a href="/Contact">contact me</a> for a consultation!</p>
         </div>
       </div>
     );
